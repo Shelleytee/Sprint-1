@@ -10,5 +10,5 @@ Commands I've learned today
 - exit - end or close the terminal/command line
 - man - shows definition of command meaning and syntax, and descriptors
 - wildcard * - any letter or character appearing from this point
-- move - move a file or folder from one location to another
+- open - opens a file like you clicked on it
 - mv - move files or rename them
